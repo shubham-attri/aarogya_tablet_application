@@ -1,4 +1,4 @@
-# aarogya
+# Aarogya
 
 # Elderly Assistance App - Tablet Application
 
